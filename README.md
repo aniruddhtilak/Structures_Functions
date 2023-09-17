@@ -1,5 +1,5 @@
 # Structures_Functions
-A. Structures                                                                                                                                                                                                          The program helps in managing employee records using a structure 
+**A. Structures**                                                                                                                                                                                                          The program helps in managing employee records using a structure 
 
 Algorithm:
 
@@ -30,7 +30,7 @@ Algorithm:
 7. End of the program.
 
 
-B. Swap number using functions                                                                                                                                                                                       
+**B. Swap number using functions **                                                                                                                                                                                      
 Algorithm :
 
 1. Create integer variables 'c' and 'd' to store two numbers.
