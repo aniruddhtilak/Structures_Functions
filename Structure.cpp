@@ -1,5 +1,5 @@
-#include <stdio.h>
-
+#include<iostream>
+using namespace std;
 struct employee
 {
 	char name[20];
