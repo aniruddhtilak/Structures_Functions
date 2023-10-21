@@ -51,7 +51,7 @@ Algorithm :
 
 9. End of the program.
 
-C. Class and Function                                                                                                                                                                                               
+**C. Class and Function**                                                                                                                                                                                               
 The program defines a cube class to calculate the volume of a cube based on user inputs for its dimensions.                                                                                                        
                                                                                                                                                                                                                     
                                                                                                                                                                                                                     
